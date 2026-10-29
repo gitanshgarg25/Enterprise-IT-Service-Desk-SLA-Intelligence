@@ -1,0 +1,5 @@
+Priority,SLA_Target_Hours,Severity_Level,Business_Impact_Description
+Critical,4.0,P1,"Catastrophic service disruption, core business process offline"
+High,8.0,P2,"Major business degradation, multiple departments impacted"
+Medium,24.0,P3,"Moderate operational impact, functional workaround available"
+Low,72.0,P4,"Minor inquiry, standard service request, zero business downtime"

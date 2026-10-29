@@ -1,0 +1,6 @@
+Support_Team,Support_Tier,Core_Specialization
+Service Desk - Tier 1,Tier 1,"General incident intake, triage, quick fixes, ERP/email"
+End User Support - Tier 2,Tier 2,"Deskside hardware diagnostics, OS rebuilds, peripherals"
+Identity & Access Management (IAM),Tier 2,"Directory administration, MFA, RBAC permissions"
+Network Operations,Tier 3,"Enterprise routing, switches, VPN gateways, DNS, Wi-Fi"
+Cloud & Systems Infrastructure,Tier 3,"Cloud environments, VM lifecycle, DB servers, storage"

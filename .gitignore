@@ -1,0 +1,25 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# Tableau
+*.twb~
+*.tfl~
+*.hyper~
+*.tds~
+
+# Temporary / Scratch files
+*.tmp
+*.log
+~$*.xlsx
